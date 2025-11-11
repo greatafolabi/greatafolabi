@@ -1,6 +1,6 @@
 # Hi there, I'm Afolabi Daniel Folajomi 👋
 
-## Chemical Engineer 🧪 | Aspiring Full Stack Developer 💻
+## Chemical Engineer 🧪 | Aspiring Back End Developer 💻
 
 > Bridging Engineering & Technology to Build the Future
 
@@ -39,7 +39,7 @@ learning_journey = {
 **Development Tools:**
 - 🐙 Git & GitHub
 - 💻 VS Code
-- 🔧 Learning: Python, Rust, Web Development
+- 🔧 Learning: Python, Rust and Matlab
 
 ---
 
