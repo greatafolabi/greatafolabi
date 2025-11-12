@@ -1,6 +1,6 @@
 # Hi there, I'm Afolabi Daniel Folajomi 👋
 
-## Chemical Engineer 🧪 | Aspiring Back End Developer 💻
+## Chemical Engineer 🧪 | Aspiring Full Stack Developer 💻
 
 > Bridging Engineering & Technology to Build the Future
 
@@ -9,9 +9,9 @@
 ### 🚀 About Me
 
 - 🎓 200 Level Chemical Engineering Student at **UNILAG**
-- 💻 Currently Learning: **100 Days of Python** & **20 Weeks of Rust**
+- 💻 Currently Learning: **100 Days of Python**
 - 🛠️ Skilled in **Autodesk Inventor** & **MATLAB**
-- 🌱 Just started **Day 0 of #100DaysOfCode**
+- 🔥 Currently on **Day 2/100 of #100DaysOfCode**
 - 🎯 Mission: Bridge engineering expertise with software development
 - 🔭 Passionate about using **technology to solve engineering problems**
 - 🤝 Open to **internships** and **collaboration**
@@ -24,10 +24,10 @@
 **Currently Learning:**
 ```python
 learning_journey = {
-    "languages": ["Python 🐍", "Rust 🦀", "MATLAB"],
+    "languages": ["Python 🐍", "MATLAB"],
     "goal": "Full Stack Development",
     "focus": "Bridging Engineering & Technology",
-    "challenge": "100 Days Python + 20 Weeks Rust"
+    "progress": "Day 2/100 - Building momentum! 🔥"
 }
 ```
 
@@ -39,7 +39,7 @@ learning_journey = {
 **Development Tools:**
 - 🐙 Git & GitHub
 - 💻 VS Code
-- 🔧 Learning: Python, Rust and Matlab
+- 🔧 Learning: Python, Web Development
 
 ---
 
@@ -54,16 +54,16 @@ learning_journey = {
 ### 🎯 Current Learning Journey
 
 #### 🐍 100 Days of Python
-- **Status:** Starting Soon! 🚀
+- **Status:** Day 2/100 - In Progress! 🔥🔥
 - **Goal:** Master Python for data analysis, automation, and web development
 - 📁 Repository: [100-days-of-python](https://github.com/greatafolabi/100-days-of-python)
 - 💡 Daily commits & learning logs
+- 🚀 Projects: Band Name Generator, Tip Calculator
 
-#### 🦀 20 Weeks of Rust
-- **Status:** Preparing to Start
-- **Goal:** Learn systems programming and build efficient software
-- 📁 Repository: [rust-20-weeks](https://github.com/greatafolabi/rust-20-weeks)
-- 🚀 Building robust applications
+**Recent Achievements:**
+- ✅ Day 1: Python Basics - Band Name Generator
+- ✅ Day 2: Data Types - Tip Calculator
+- 🔥 2-day streak and counting!
 
 ---
 
@@ -80,32 +80,32 @@ I'm documenting my entire learning journey publicly—learning in public, buildi
 
 ### 📝 Latest Activity
 
-<!-- This section will be updated with your latest commits and projects -->
-
-🔨 Currently working on: Setting up my learning repositories
-📚 Currently learning: Python basics and fundamentals
+🔨 Currently working on: Day 3 of Python - Control Flow & Conditional Statements
+📚 Recently learned: Data types, type conversion, mathematical operations
 🎯 Next milestone: Complete Day 30 of Python
 
 ---
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afolabi-daniel-32959431a)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@AfolabiDan61289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afolabi-daniel-32959431a)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/afolabidan61289)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afolabidaniel534@gmail.com)
 
 ---
 
 ### 💭 Philosophy
-```rust
-fn my_approach() -> String {
-    let engineering = "Domain Expertise";
-    let technology = "Software Skills";
-    let result = format!("{} + {} = Innovation", engineering, technology);
+
+```python
+def my_approach():
+    engineering = "Domain Expertise"
+    technology = "Software Skills"
+    result = f"{engineering} + {technology} = Innovation"
     
-    println!("🚀 {}", result);
-    result
-}
+    print(f"🚀 {result}")
+    return result
+
+# Output: 🚀 Domain Expertise + Software Skills = Innovation
 ```
 
 ---
@@ -122,4 +122,4 @@ Check out my learning journey and projects below! ⬇️
 
 **"Learning in public, building in private, shipping in reality"** ✨
 
-*100 Days of Code starts soon. Follow the journey!* 🎯
+*Day 2/100 complete. The journey continues!* 🎯🔥
