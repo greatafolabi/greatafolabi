@@ -11,7 +11,7 @@
 - 🎓 200 Level Chemical Engineering Student at **UNILAG**
 - 💻 Currently Learning: **100 Days of Python**
 - 🛠️ Skilled in **Autodesk Inventor** & **MATLAB**
-- 🔥 Currently on **Day 2/100 of #100DaysOfCode**
+- 🔥 Currently on **Day 4 of #100DaysOfCode** 🔥🔥🔥🔥
 - 🎯 Mission: Bridge engineering expertise with software development
 - 🔭 Passionate about using **technology to solve engineering problems**
 - 🤝 Open to **internships** and **collaboration**
@@ -27,7 +27,8 @@ learning_journey = {
     "languages": ["Python 🐍", "MATLAB"],
     "goal": "Full Stack Development",
     "focus": "Bridging Engineering & Technology",
-    "progress": "Day 2/100 - Building momentum! 🔥"
+    "progress": "Day 4/100 - 4% Complete! 🔥",
+    "projects": "7 projects built so far!"
 }
 ```
 
@@ -54,7 +55,9 @@ learning_journey = {
 ### 🎯 Current Learning Journey
 
 #### 🐍 100 Days of Python
-- **Status:** Day 2/100 - In Progress! 🔥🔥
+- **Status:** Day 4/100 - In Progress! 🔥🔥🔥🔥
+- **Projects:** 7 complete (Band Name, Tip Calculator, Pizza App, Treasure Island, Coin Toss, Bill Splitter, Rock Paper Scissors)
+- **Streak:** 4 consecutive days!
 - **Goal:** Master Python for data analysis, automation, and web development
 - 📁 Repository: [100-days-of-python](https://github.com/greatafolabi/100-days-of-python)
 - 💡 Daily commits & learning logs
@@ -63,9 +66,10 @@ learning_journey = {
 **Recent Achievements:**
 - ✅ Day 1: Python Basics - Band Name Generator
 - ✅ Day 2: Data Types - Tip Calculator
-- 🔥 2-day streak and counting!
-
----
+- ✅ Day 3: Control Flow - Pizza Delivery, Treasure Island (4 hours!)
+- ✅ Day 4: Randomization & Lists - 3 projects in one day!
+- 🔥 4-day streak and going strong!
+- 🤝 First company engagement (Andela)
 
 ### 🌟 My Vision
 
@@ -80,11 +84,10 @@ I'm documenting my entire learning journey publicly—learning in public, buildi
 
 ### 📝 Latest Activity
 
-🔨 Currently working on: Day 3 of Python - Control Flow & Conditional Statements
-📚 Recently learned: Data types, type conversion, mathematical operations
-🎯 Next milestone: Complete Day 30 of Python
-
----
+🔨 Currently working on: Day 5 - Python Loops
+📚 Recently learned: Randomization, Lists, Control Flow, Data Types
+🎯 Next milestone: Complete Day 7 (1 week streak!)
+💪 Current achievement: 7 projects in 4 days!
 
 ### 🌐 Connect With Me
 
