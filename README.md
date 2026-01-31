@@ -11,10 +11,10 @@
 - 🎓 200 Level Chemical Engineering Student at **UNILAG**
 - 💻 Currently Learning: **100 Days of Python**
 - 🛠️ Skilled in **Autodesk Inventor** & **MATLAB**
-- 🔥 Currently on **Day 4 of #100DaysOfCode** 🔥🔥🔥🔥
+- 🔥 Currently on **Day 10 of #100DaysOfCode** 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 - 🎯 Mission: Bridge engineering expertise with software development
 - 🔭 Passionate about using **technology to solve engineering problems**
-- 🤝 Open to **internships** and **collaboration**
+- 🤝 Seeking **SIWES placement** in Chemical Engineering
 - 📫 Reach me: **afolabidaniel534@gmail.com**
 
 ---
@@ -26,9 +26,11 @@
 learning_journey = {
     "languages": ["Python 🐍", "MATLAB"],
     "goal": "Full Stack Development",
-    "focus": "Bridging Engineering & Technology",
-    "progress": "Day 4/100 - 4% Complete! 🔥",
-    "projects": "7 projects built so far!"
+    "focus": "Bridging Chemical Engineering & Technology",
+    "progress": "Day 10/100 - 10% Complete! 🔥",
+    "projects": "17 projects built!",
+    "streak": "10 days consecutive",
+    "network": "23 company engagements"
 }
 ```
 
@@ -55,21 +57,60 @@ learning_journey = {
 ### 🎯 Current Learning Journey
 
 #### 🐍 100 Days of Python
-- **Status:** Day 4/100 - In Progress! 🔥🔥🔥🔥
-- **Projects:** 7 complete (Band Name, Tip Calculator, Pizza App, Treasure Island, Coin Toss, Bill Splitter, Rock Paper Scissors)
-- **Streak:** 4 consecutive days!
-- **Goal:** Master Python for data analysis, automation, and web development
+- **Status:** Day 10/100 - DOUBLE DIGITS! 🔥🔥🔥
+- **Projects:** 17 complete
+- **Streak:** 10 consecutive days! 💪
+- **Goal:** Master Python for data analysis, automation, and full-stack development
 - 📁 Repository: [100-days-of-python](https://github.com/greatafolabi/100-days-of-python)
 - 💡 Daily commits & learning logs
-- 🚀 Projects: Band Name Generator, Tip Calculator
 
-**Recent Achievements:**
-- ✅ Day 1: Python Basics - Band Name Generator
-- ✅ Day 2: Data Types - Tip Calculator
-- ✅ Day 3: Control Flow - Pizza Delivery, Treasure Island (4 hours!)
-- ✅ Day 4: Randomization & Lists - 3 projects in one day!
-- 🔥 4-day streak and going strong!
-- 🤝 First company engagement (Andela)
+**Recent Projects:**
+- ✅ Day 1: Band Name Generator
+- ✅ Day 2: Tip Calculator
+- ✅ Day 3: Pizza Delivery, Treasure Island
+- ✅ Day 4: Rock Paper Scissors
+- ✅ Day 5: Password Generator
+- ✅ Day 6: Maze Solving (Reeborg's World)
+- ✅ Day 7: Hangman Game
+- ✅ Day 8: Caesar Cipher (Encryption/Decryption)
+- ✅ Day 9: Grading System, Blind Auction
+- ✅ Day 10: Calculator, Leap Year Checker
+
+**Milestone Achievements:**
+- 🎉 10 days completed - DOUBLE DIGITS!
+- 🔥 Zero breaks taken
+- 💼 23 company engagements (TotalEnergies, Shell, NNPC, Chevron, Seplat, Cisco, Google Cloud, Microsoft & more!)
+- 🌟 TotalEnergies engaged with my technical comment!
+- 🎯 Building network for SIWES placement
+
+---
+
+### 🎓 SIWES Journey
+
+Currently building network and skills for **Student Industrial Work Experience Scheme (SIWES)** placement in Chemical Engineering:
+
+**Target Companies:**
+- 🛢️ TotalEnergies Nigeria
+- 🛢️ Shell Nigeria
+- 🛢️ Chevron Nigeria
+- 🏭 Dangote Refinery
+- 🛢️ NNPC Limited
+- 🛢️ Seplat Energy
+- 🔧 Halliburton Nigeria
+- 🏭 Indorama Eleme Petrochemicals
+
+**Strategy:**
+- ✅ Building coding portfolio (Python, data analysis)
+- ✅ Engaging with industry leaders on LinkedIn
+- ✅ Demonstrating ChemE + Tech hybrid skills
+- ✅ Documenting learning journey publicly
+
+**Progress:**
+- 23 company engagements
+- TotalEnergies recognized my technical perspective
+- Building consistent presence in energy + tech sectors
+
+---
 
 ### 🌟 My Vision
 
@@ -84,10 +125,13 @@ I'm documenting my entire learning journey publicly—learning in public, buildi
 
 ### 📝 Latest Activity
 
-🔨 Currently working on: Day 5 - Python Loops
-📚 Recently learned: Randomization, Lists, Control Flow, Data Types
-🎯 Next milestone: Complete Day 7 (1 week streak!)
-💪 Current achievement: 7 projects in 4 days!
+🔨 Currently working on: Day 11 - Advanced Functions
+📚 Recently mastered: Return statements, Docstrings, Nested Functions, Dictionaries
+🎯 Next milestone: Complete Day 14 (2 weeks streak!)
+💪 Current achievement: 17 projects in 10 days!
+🌐 Network: Engaged with 23 companies including TotalEnergies, NNPC, Shell, Chevron
+
+---
 
 ### 🌐 Connect With Me
 
@@ -98,17 +142,17 @@ I'm documenting my entire learning journey publicly—learning in public, buildi
 ---
 
 ### 💭 Philosophy
-
 ```python
 def my_approach():
-    engineering = "Domain Expertise"
-    technology = "Software Skills"
-    result = f"{engineering} + {technology} = Innovation"
+    chemical_engineering = "Process Optimization Mindset"
+    coding_skills = "Software Development Tools"
+    networking = "Industry Connections"
+    result = f"{chemical_engineering} + {coding_skills} + {networking} = Career Success"
     
     print(f"🚀 {result}")
     return result
 
-# Output: 🚀 Domain Expertise + Software Skills = Innovation
+# Output: 🚀 Process Optimization Mindset + Software Development Tools + Industry Connections = Career Success
 ```
 
 ---
@@ -123,6 +167,6 @@ Check out my learning journey and projects below! ⬇️
 
 ---
 
-**"Learning in public, building in private, shipping in reality"** ✨
+**"Learning in public, building consistently, networking strategically"** ✨
 
-*Day 2/100 complete. The journey continues!* 🎯🔥
+*Day 10/100 complete - Double digits reached! The journey continues!* 🎯🔥
